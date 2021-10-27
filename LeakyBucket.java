@@ -1,5 +1,3 @@
-package TCP;
-
 import java.util.*;
 
 public class LeakyBucket
